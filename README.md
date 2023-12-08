@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi there I´m Rodolfo Welcome 👋
+![bannerGITHUB](https://github.com/rodjoker/rodjoker/assets/136286056/8d8dffe3-f2d7-464b-bbc7-6da2574921b2)
+```JS
+const rodolfo = {
+  pronouns: he || him,
+  code: [HTML, CSS, JavaScript, C#],
+  tolls: [React, Node, Docker],
+}
+```
 <!--
 **rodjoker/rodjoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
