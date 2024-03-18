@@ -3,8 +3,8 @@
 ```JS
 const rodolfo = {
   pronouns: he || him,
-  code: [HTML, CSS, JavaScript, C#],
-  tolls: [React, Node, Docker],
+  code: [HTML, CSS, Taildwind CSS, JavaScript, Wordpress],
+  tolls: [React, Node],
 }
 ```
 <!--
